@@ -8,10 +8,10 @@
   <description>Latest Dark Framework releases</description>
   <language>en</language>
   <item>
-      <title>Release-2025-05-28-0930</title>
-      <sparkle:releaseNotesLink>https://github.com/DarkXPixel-Comp/Dark-Framework-Releases/releases/tag/Release-2025-05-28-0930</sparkle:releaseNotesLink>
+      <title>Release-2025-05-28-1549</title>
+      <sparkle:releaseNotesLink>https://github.com/DarkXPixel-Comp/Dark-Framework-Releases/releases/tag/Release-2025-05-28-1549</sparkle:releaseNotesLink>
       <pubDate></pubDate>
-      <enclosure url="https://github.com/DarkXPixel-Comp/Dark-Framework-Releases/releases/download/Release-2025-05-28-0930/DarkFramework.zip" sparkle:version="Release-2025-05-28-0930" length="" type="application/zip" sparkle:dsaSignature="" sparkle:sha256="733BB36EFFEA97937DD979BBD53170E96CA1F6F2732A4BE9DED742AB9F0D4033" />
+      <enclosure url="https://github.com/DarkXPixel-Comp/Dark-Framework-Releases/releases/download/Release-2025-05-28-1549/DarkFramework.zip" sparkle:version="Release-2025-05-28-1549" length="" type="application/zip" sparkle:dsaSignature="" sparkle:sha256="00820066CFADF27F201BAB12594B88F48481523B1FD4892BB415DF1946357D7E" />
   </item>
   </channel>
 </rss>
