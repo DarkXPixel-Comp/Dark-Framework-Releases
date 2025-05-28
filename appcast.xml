@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+      xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+  <title>Dark Framework Updates</title>
+  <link>https://github.com/DarkXPixel-Comp/Dark-Framework-Releases</link>
+  <description>Latest Dark Framework releases</description>
+  <language>en</language>
+  <item>
+      <title>Release-2025-05-28-0907</title>
+      <sparkle:releaseNotesLink>https://github.com/DarkXPixel-Comp/Dark-Framework-Releases/releases/tag/Release-2025-05-28-0907</sparkle:releaseNotesLink>
+      <pubDate></pubDate>
+      <enclosure url="https://github.com/DarkXPixel-Comp/Dark-Framework-Releases/releases/download/Release-2025-05-28-0907/DarkFramework.zip" sparkle:version="Release-2025-05-28-0907" length="" type="application/zip" sparkle:dsaSignature="" sparkle:sha256="7CB3E4A249213484A80D0ED7632D5DD5F3FD3AAB4336CF8AE3E4A456691B4EE9" />
+  </item>
+  </channel>
+</rss>
